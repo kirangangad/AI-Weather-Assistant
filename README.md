@@ -22,7 +22,7 @@ Powered by the <a href="https://openweathermap.org/api" style="color:#2196F3;">O
 
 ## 🛠 Installation & Setup
 ```bash
-# 1️⃣ Clone the repository
+# 1️⃣ Clone the repository_
 git clone https://github.com/kirangangad/AI-Weather-Forecast.git
 
 # 2️⃣ Navigate into the folder
