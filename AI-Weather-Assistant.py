@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import requests
 import threading
 
-API_KEY = "fae3d36b57300befb4071f452f94e64c"  # Your API key
+API_KEY = "fae3d36b57300befb4071f452f94e64c"  # Your API key 
 PROGRESS_DELAY = 40
 WEATHER_STEPS = [
     "Searching Location...",
@@ -95,3 +95,4 @@ forecast_button = tk.Button(root, text="Get Forecast", font=("Arial", 12), comma
 forecast_button.pack(pady=20)
 
 root.mainloop()
+
